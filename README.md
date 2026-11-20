@@ -9,8 +9,8 @@
 </p>
 
 <p>
-<a href="https://github.com/Mxhi-04?tab=followers"><img src="assets/tags/tag-followers.png" height="36" alt="Followers"></a>
-<a href="https://hits.sh/github.com/Mxhi-04/"><img src="assets/tags/tag-voyagers.png" height="36" alt="Voyagers Charted"></a>
+<a href="https://github.com/Arxana04?tab=followers"><img src="assets/tags/tag-followers.png" height="36" alt="Followers"></a>
+<a href="https://hits.sh/github.com/Arxana04/"><img src="assets/tags/tag-voyagers.png" height="36" alt="Voyagers Charted"></a>
 <a href="https://www.linkedin.com/in/mahi-patni-00a977376/" target="_blank"><img src="assets/tags/tag-linkedin.png" height="36" alt="LinkedIn"></a>
 <a href="mailto:mahipatni1828@gmail.com"><img src="assets/tags/tag-mail.png" height="36" alt="Mail"></a>
 <img src="assets/tags/tag-location.png" height="36" alt="Location">
@@ -28,10 +28,10 @@
 
 Crafting little worlds, pixel by pixel — charting the convergence of **physics-informed machine learning**, **autonomous multi-agent coordination**, and **immersive web architectures**.
 
-- **[Anchor](https://github.com/Mxhi-04/Anchor)**: Physics-informed machine learning for materials science (Asian Paints Alchemy 2026), combining the Fox equation with Gaussian Process residual modeling and conformal prediction intervals.
-- **[FloodSetu](https://github.com/Mxhi-04/FloodSetu)**: Decentralized multi-agent rescue dispatch engine (Code-E-Manipal 2.0), implementing Contract-Net auction protocols and offline SOS resilience.
-- **[Anime Todo](https://github.com/Mxhi-04/Anime-Todolist)**: Immersive 3D interactive productivity environment built with Three.js, GSAP, and private local-first storage.
-- **[VyaparAI](https://github.com/Mxhi-04/VyaparAI)**: Intelligent retail billing and inventory management workspace with voice-assisted POS and offline analytics.
+- **[Anchor](https://github.com/Arxana04/Anchor)**: Physics-informed machine learning for materials science (Asian Paints Alchemy 2026), combining the Fox equation with Gaussian Process residual modeling and conformal prediction intervals.
+- **[FloodSetu](https://github.com/Arxana04/FloodSetu)**: Decentralized multi-agent rescue dispatch engine (Code-E-Manipal 2.0), implementing Contract-Net auction protocols and offline SOS resilience.
+- **[Anime Todo](https://github.com/Arxana04/Anime-Todolist)**: Immersive 3D interactive productivity environment built with Three.js, GSAP, and private local-first storage.
+- **[VyaparAI](https://github.com/Arxana04/VyaparAI)**: Intelligent retail billing and inventory management workspace with voice-assisted POS and offline analytics.
 
 <br clear="right">
 
@@ -57,7 +57,7 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 
 | Project | Description | Stack | Status / Links |
 |:--|:--|:--|:--|
-| [**Anchor**](https://github.com/Mxhi-04/Anchor) | **Physics-anchored, uncertainty-aware copolymer $T_g$ prediction.** Integrates the Fox equation with Gaussian Process residual learning. Delivers 90% conformal prediction intervals and active learning to minimize wet-lab polymer formulation trials. | `Python` `Scikit-Learn` `SciPy` `PINN` | [**Repo**](https://github.com/Mxhi-04/Anchor) · *Asian Paints Alchemy 2026* |
+| [**Anchor**](https://github.com/Arxana04/Anchor) | **Physics-anchored, uncertainty-aware copolymer $T_g$ prediction.** Integrates the Fox equation with Gaussian Process residual learning. Delivers 90% conformal prediction intervals and active learning to minimize wet-lab polymer formulation trials. | `Python` `Scikit-Learn` `SciPy` `PINN` | [**Repo**](https://github.com/Arxana04/Anchor) · *Asian Paints Alchemy 2026* |
 
 </details>
 
@@ -67,7 +67,7 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 
 | Project | Description | Stack | Status / Links |
 |:--|:--|:--|:--|
-| [**FloodSetu**](https://github.com/Mxhi-04/FloodSetu) | **Decentralized multi-agent flood rescue dispatch engine.** Runs Contract-Net auction protocols between emergency responder agents, offline citizen SOS broadcasts, and a tamper-evident relief ledger with 10/10 safety invariants held across 140 benchmark runs. | `TypeScript` `Multi-Agent` `PNPM` `Vite` | [**Live Demo**](https://floodsetu.vercel.app) · [**Repo**](https://github.com/Mxhi-04/FloodSetu) · *Code-E-Manipal 2.0* |
+| [**FloodSetu**](https://github.com/Arxana04/FloodSetu) | **Decentralized multi-agent flood rescue dispatch engine.** Runs Contract-Net auction protocols between emergency responder agents, offline citizen SOS broadcasts, and a tamper-evident relief ledger with 10/10 safety invariants held across 140 benchmark runs. | `TypeScript` `Multi-Agent` `PNPM` `Vite` | [**Live Demo**](https://floodsetu.vercel.app) · [**Repo**](https://github.com/Arxana04/FloodSetu) · *Code-E-Manipal 2.0* |
 
 </details>
 
@@ -77,8 +77,8 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 
 | Project | Description | Stack | Status / Links |
 |:--|:--|:--|:--|
-| [**Anime-Todolist**](https://github.com/Mxhi-04/Anime-Todolist) | **Grand Line Dashboard &amp; 64-World Productivity Studio.** An anime-inspired personal workspace with ambient live loops, customizable focus timers, dynamic Three.js ocean stage, and private IndexedDB storage. | `JavaScript` `Three.js` `GSAP` `Supabase` `Vite` | [**Live Demo**](https://anime-todolist.vercel.app) · [**Repo**](https://github.com/Mxhi-04/Anime-Todolist) |
-| [**Soul-Bites**](https://github.com/Mxhi-04/Soul-Bites) | **Modern Cloud Kitchen food ordering web platform.** High-performance restaurant storefront with reactive menu filtering, cart state management, and streamlined checkout experience. | `React` `TypeScript` `Vite` `Tailwind` | [**Live Demo**](https://soul-bites.vercel.app) · [**Repo**](https://github.com/Mxhi-04/Soul-Bites) |
+| [**Anime-Todolist**](https://github.com/Arxana04/Anime-Todolist) | **Grand Line Dashboard &amp; 64-World Productivity Studio.** An anime-inspired personal workspace with ambient live loops, customizable focus timers, dynamic Three.js ocean stage, and private IndexedDB storage. | `JavaScript` `Three.js` `GSAP` `Supabase` `Vite` | [**Live Demo**](https://anime-todolist.vercel.app) · [**Repo**](https://github.com/Arxana04/Anime-Todolist) |
+| [**Soul-Bites**](https://github.com/Arxana04/Soul-Bites) | **Modern Cloud Kitchen food ordering web platform.** High-performance restaurant storefront with reactive menu filtering, cart state management, and streamlined checkout experience. | `React` `TypeScript` `Vite` `Tailwind` | [**Live Demo**](https://soul-bites.vercel.app) · [**Repo**](https://github.com/Arxana04/Soul-Bites) |
 
 </details>
 
@@ -88,7 +88,7 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 
 | Project | Description | Stack | Status / Links |
 |:--|:--|:--|:--|
-| [**VyaparAI**](https://github.com/Mxhi-04/VyaparAI) | **Smart Billing, AI Data Analyst &amp; Inventory Management.** Retail command center designed for neighborhood businesses. Features voice-assisted sales, automated stock runway alerts, cash reconciliation, and conversational business insights. | `JavaScript` `HTML5` `CSS3` `Chart.js` | [**Live Demo**](https://vyaparai-dun.vercel.app) · [**Repo**](https://github.com/Mxhi-04/VyaparAI) |
+| [**VyaparAI**](https://github.com/Arxana04/VyaparAI) | **Smart Billing, AI Data Analyst &amp; Inventory Management.** Retail command center designed for neighborhood businesses. Features voice-assisted sales, automated stock runway alerts, cash reconciliation, and conversational business insights. | `JavaScript` `HTML5` `CSS3` `Chart.js` | [**Live Demo**](https://vyaparai-dun.vercel.app) · [**Repo**](https://github.com/Arxana04/VyaparAI) |
 
 </details>
 
@@ -124,28 +124,28 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 
 <div align="center">
 
-<a href="https://github.com/Mxhi-04"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mxhi-04&show_icons=true&hide_border=true&bg_color=080406&title_color=e11d48&text_color=e2d9dc&icon_color=e11d48&ring_color=ff2a4b&rank_icon=github" height="170" alt="GitHub stats"></a>
-<a href="https://github.com/Mxhi-04"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mxhi-04&layout=compact&hide_border=true&bg_color=080406&title_color=e11d48&text_color=e2d9dc" height="170" alt="Top languages"></a>
+<a href="https://github.com/Arxana04"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arxana04&show_icons=true&hide_border=true&bg_color=080406&title_color=e11d48&text_color=e2d9dc&icon_color=e11d48&ring_color=ff2a4b&rank_icon=github" height="170" alt="GitHub stats"></a>
+<a href="https://github.com/Arxana04"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arxana04&layout=compact&hide_border=true&bg_color=080406&title_color=e11d48&text_color=e2d9dc" height="170" alt="Top languages"></a>
 
 <br>
 
-<a href="https://github.com/Mxhi-04"><img src="https://streak-stats.demolab.com/?user=Mxhi-04&hide_border=true&background=080406&stroke=2a0a12&ring=e11d48&fire=ff2a4b&currStreakNum=f8fafc&currStreakLabel=ff2a4b&sideNums=f8fafc&sideLabels=e2d9dc&dates=806c72" width="70%" alt="Streak"></a>
+<a href="https://github.com/Arxana04"><img src="https://streak-stats.demolab.com/?user=Arxana04&hide_border=true&background=080406&stroke=2a0a12&ring=e11d48&fire=ff2a4b&currStreakNum=f8fafc&currStreakLabel=ff2a4b&sideNums=f8fafc&sideLabels=e2d9dc&dates=806c72" width="70%" alt="Streak"></a>
 
 <details>
-<summary><b>Achievements Unlocked</b> &nbsp;<sub>(<a href="https://github.com/Mxhi-04?tab=achievements">view live profile</a>)</sub></summary>
+<summary><b>Achievements Unlocked</b> &nbsp;<sub>(<a href="https://github.com/Arxana04?tab=achievements">view live profile</a>)</sub></summary>
 <br>
 
 <table border="0">
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/Mxhi-04?tab=achievements&achievement=yolo">
+  <a href="https://github.com/Arxana04?tab=achievements&achievement=yolo">
     <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" /><br>
     <b>YOLO</b><br>
     <sub>Merged Without Review</sub>
   </a>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/Mxhi-04?tab=achievements&achievement=quickdraw">
+  <a href="https://github.com/Arxana04?tab=achievements&achievement=quickdraw">
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" /><br>
     <b>Quickdraw</b><br>
     <sub>Closed Within 5 Min</sub>
@@ -155,7 +155,7 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 </table>
 
 <p align="center">
-  <sub>Verify unlocked badges on <a href="https://github.com/Mxhi-04?tab=achievements">GitHub Profile Achievements</a></sub>
+  <sub>Verify unlocked badges on <a href="https://github.com/Arxana04?tab=achievements">GitHub Profile Achievements</a></sub>
 </p>
 
 </details>
@@ -163,9 +163,9 @@ Crafting little worlds, pixel by pixel — charting the convergence of **physics
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mxhi-04/Mxhi-04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mxhi-04/Mxhi-04/output/github-contribution-grid-snake.svg">
-  <img alt="A snake eating the contribution grid" src="https://raw.githubusercontent.com/Mxhi-04/Mxhi-04/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arxana04/Arxana04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arxana04/Arxana04/output/github-contribution-grid-snake.svg">
+  <img alt="A snake eating the contribution grid" src="https://raw.githubusercontent.com/Arxana04/Arxana04/output/github-contribution-grid-snake.svg">
 </picture>
 
 <sub>Activity tracking across a year of contributions.</sub>
